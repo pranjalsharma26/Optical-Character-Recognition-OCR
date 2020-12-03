@@ -25,4 +25,4 @@ Settings-> Python Interpreter-> Click on + -> Choose the package that you want t
 
 ## Examples 
 
-<img src = "">
+<img src ="https://github.com/pranjalsharma26/Optical-Character-Recognition-OCR/blob/main/output_ocr.JPG">
