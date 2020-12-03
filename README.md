@@ -23,6 +23,10 @@ Settings-> Python Interpreter-> Click on + -> Choose the package that you want t
 
 4. Do the fuctionalities which you want to perform. Some of them will be given in form of py file.
 
-## Examples 
+## Example->
 
+### Sample Data
+<img src= "https://github.com/pranjalsharma26/Optical-Character-Recognition-OCR/blob/main/data.JPG">
+
+### Output
 <img src ="https://github.com/pranjalsharma26/Optical-Character-Recognition-OCR/blob/main/output_ocr.JPG">
